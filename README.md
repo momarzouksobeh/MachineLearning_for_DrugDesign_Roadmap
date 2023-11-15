@@ -1,2 +1,3 @@
 # MachineLearning_in_DrugDesign_Roadmap
 Explore the comprehensive roadmap for leveraging machine learning in drug design
+This repository not only navigates you through the fundamental toolkit for machine learning in Python, encompassing libraries crucial for data handling and indispensable for cheminformatics, but also recommends online courses and books that have been encountered during my journey to master ML models for drug design applications. Furthermore, it includes a collection of projects and hands-on tutorials, addressing applications in ML in general and specifically in drug design, such as virtual screening and docking.
