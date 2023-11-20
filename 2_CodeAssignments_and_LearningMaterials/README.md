@@ -1,0 +1,2 @@
+In this section, Code Assignments and Learning Materials, I share the practical knowledge gained on my journey to master ML models for Drug Design. Having extensively studied various books and completed numerous online courses across different platforms, this collection includes the codes and assignments I practiced. 
+The majority of these resources are presented in Jupyter Notebook format, facilitating easy experimentation and direct use for those interested in exploring ML applications in Drug Design or teaching related courses in the future.
