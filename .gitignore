@@ -3,12 +3,16 @@
 *.html
 *.pdf
 *.csv
+*.data
 **/.DS_Store/*
 # the datasets for CNN
 **/Intel_Image_Classification/*
 **/Fashion_MNIST/*
 **/Digit_Recognition_Mnist/*
 **/Cats_Dogs/*
+
+# example 5 for CNN not finished yet. 
+Example_No_5_Cats_Dogs_classifer.ipynb
 
 
 
