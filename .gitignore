@@ -2,4 +2,14 @@
 **/dog/*
 *.html
 *.pdf
-**/.DS_Store
+*.csv
+**/.DS_Store/*
+# the datasets for CNN
+**/Intel_Image_Classification/*
+**/Fashion_MNIST/*
+**/Digit_Recognition_Mnist/*
+**/Cats_Dogs/*
+
+
+
+
